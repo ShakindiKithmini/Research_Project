@@ -1,0 +1,8 @@
+{
+  "name": "research-project-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ai-interviewing-system run dev",
+    "start": "npm --prefix ai-interviewing-system start"
+  }
+}
